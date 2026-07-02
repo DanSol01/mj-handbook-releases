@@ -3,7 +3,6 @@
 # 📖 MJ Handbook
 ### Справочник сотрудника — Majestic RP
 
-![Version](https://img.shields.io/badge/версия-1.0.0-7c5ce8?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/платформа-Windows-0078d4?style=for-the-badge)
 
 </div>
