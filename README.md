@@ -52,10 +52,6 @@
 
 ## 📞 Поддержка
 
-Проблемы с установкой или вопросы — обращайся в Discord "tinkoff_investments"
+Проблемы с установкой или вопросы — обращайся в Discord "mjhandbook"
 
 ---
-
-<div align="center">
-<i>© 2025 Majestic RP · Все права защищены</i>
-</div>
